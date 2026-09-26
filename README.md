@@ -1,13 +1,11 @@
 <h1 align="center">Hola 👋, soy Guillermo Galindo</h1>
 
-<h3 align="center">
-Ingeniero de Software | Desarrollador Full Stack
-</h3>
+<h3 align="center">Ingeniero de Software | Desarrollador Full Stack</h3>
 
 <p align="center">
   🇲🇽 México &nbsp;•&nbsp;
   💻 Desarrollo Full Stack &nbsp;•&nbsp;
-  ☁️ Cloud & AWS &nbsp;•&nbsp;
+  ☁️ Cloud &nbsp;•&nbsp;
   🤖 IA y Automatización
 </p>
 
@@ -20,9 +18,9 @@ Soy Ingeniero de Software enfocado en el desarrollo de aplicaciones web modernas
 Me gusta trabajar en todo el ciclo de desarrollo: desde interfaces frontend hasta arquitectura backend, bases de datos, infraestructura, despliegues y automatización.
 
 - 🔭 Actualmente trabajando en **aplicaciones Full Stack**
-- 🌱 Aprendiendo **AWS, Inteligencia Artificial y Arquitectura de Software**
+- 🌱 Aprendiendo **AWS Cloud Practitioner, Inteligencia Artificial y Arquitectura de Software**
 - 🤖 Interesado en **Agentes de IA, RAG y automatización**
-- ☁️ Profundizando en **Cloud Computing y AWS**
+- ☁️ Profundizando en **Cloud Computing**
 - 🌎 Mejorando mi **inglés**
 - 🇯🇵 Aprendiendo **japonés**
 - 🚀 Interesado en crear productos escalables y soluciones SaaS
@@ -32,7 +30,12 @@ Me gusta trabajar en todo el ciclo de desarrollo: desde interfaces frontend hast
 ## ⚡ Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,nestjs,ts,nodejs,mysql,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=angular,nestjs,ts,nodejs,nextjs,mysql,docker,react,redis" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud-Nube-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Automatizaci%C3%B3n-222222?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 ---
@@ -42,31 +45,25 @@ Me gusta trabajar en todo el ciclo de desarrollo: desde interfaces frontend hast
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,html,css,tailwind,bootstrap" />
 </p>
 
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,php" />
 </p>
 
 ### 🗄️ Bases de Datos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,redis" />
 </p>
 
-### ☁️ Cloud & DevOps
+### ☁️ DevOps y Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,githubactions" />
-</p>
-
-### 🔧 Herramientas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,githubactions" />
 </p>
 
 ---
@@ -74,13 +71,8 @@ Me gusta trabajar en todo el ciclo de desarrollo: desde interfaces frontend hast
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=GuillermoIGalindo&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillermoIGalindo&layout=compact&theme=github_dark&hide_border=true" />
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GuillermoIGalindo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillermoIGalindo&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </div>
 
 ---
@@ -96,77 +88,19 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillermoIGa
 ## 📈 Actividad de Contribuciones
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuillermoIGalindo&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuillermoIGalindo&theme=github-compact&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 🚀 Proyectos Destacados
-
-### 🏭 ERP de Manufactura
-
-Sistema Full Stack diseñado para gestionar procesos de manufactura y producción.
-
-**Tecnologías**
-
-`Angular` `NestJS` `MySQL` `PrimeNG` `TailwindCSS`
-
-Funciones principales:
-
-- Gestión de clientes
-- Cotizaciones
-- Órdenes de producción
-- Flujo tipo Kanban
-- Dashboard de producción
-- Reportes
-
----
-
-### 🎓 ECC
-
-Plataforma educativa desarrollada con arquitectura Full Stack moderna.
-
-**Tecnologías**
-
-`Angular` `NestJS` `MySQL` `JWT` `Nginx` `GitHub Actions`
-
-Incluye:
-
-- Autenticación
-- Roles y permisos
-- API REST
-- Angular SSR
-- CI/CD
-- Despliegue en VPS
-
----
-
-### 🌱 Sistema de Gestión Agrícola
-
-ERP enfocado en inventario, producción e historial de actividades agrícolas.
-
-**Tecnologías**
-
-`Angular` `NestJS` `MySQL`
-
-Incluye:
-
-- Gestión de inventario
-- Registro de producción
-- Gestión de insumos
-- Historial de datos
-- Métricas y dashboards
-
----
-
-## 🧠 Actualmente Aprendiendo
+## 🧠 Actualmente aprendiendo
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IA-Agentes_de_IA-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-Aplicaciones_IA-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Inglés-Aprendiendo-007ACC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Japonés-Aprendiendo-BC002D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/IA-Agentes%20de%20IA-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Aplicaciones%20IA-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ingl%C3%A9s-En%20aprendizaje-1D9BF0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Japon%C3%A9s-En%20aprendizaje-D90429?style=for-the-badge" />
 </p>
 
 ---
@@ -181,29 +115,6 @@ Incluye:
 - ⚙️ Automatización
 - 🏗️ Arquitectura de Software
 - 🚀 Desarrollo SaaS
-- 🔐 Ciberseguridad
-
----
-
-## 👀 Visitas al Perfil
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GuillermoIGalindo&style=flat-square" />
-</p>
-
----
-
-## 🤝 Contacto
-
-<p align="left">
-
-<a href="https://github.com/GuillermoIGalindo">
-  <img src="https://img.shields.io/badge/GitHub-GuillermoIGalindo-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<!-- Puedes agregar LinkedIn, portfolio o correo aquí -->
-
-</p>
 
 ---
 
