@@ -30,7 +30,7 @@ Me gusta trabajar en todo el ciclo de desarrollo: desde interfaces frontend hast
 ## ⚡ Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,nestjs,ts,nodejs,nextjs,mysql,docker,react,redis" />
+  <img src="https://skillicons.dev/icons?i=angular,nestjs,ts,nodejs,nextjs,react,mysql,redis,docker" />
 </p>
 
 <p align="center">
@@ -68,11 +68,45 @@ Me gusta trabajar en todo el ciclo de desarrollo: desde interfaces frontend hast
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Resumen de GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GuillermoIGalindo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillermoIGalindo&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuillermoIGalindo&theme=github_dark"
+    alt="Resumen de GitHub"
+  />
+
+  <br>
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuillermoIGalindo&theme=github_dark"
+    alt="Repositorios por lenguaje"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuillermoIGalindo&theme=github_dark"
+    alt="Lenguajes con más commits"
+  />
+
+</div>
+
+---
+
+## 📈 Actividad de Desarrollo
+
+<div align="center">
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuillermoIGalindo&theme=github_dark&utcOffset=-6"
+    alt="Horario de actividad"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuillermoIGalindo&theme=github_dark"
+    alt="Estadísticas de actividad"
+  />
+
 </div>
 
 ---
@@ -81,14 +115,6 @@ Me gusta trabajar en todo el ciclo de desarrollo: desde interfaces frontend hast
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=GuillermoIGalindo&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
-## 📈 Actividad de Contribuciones
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuillermoIGalindo&theme=github-compact&hide_border=true&area=true" />
 </p>
 
 ---
